@@ -1,0 +1,49 @@
+.header {
+    height: 95vh;
+  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, 
+  rgba(255, 255, 255, 0.5) 60%,
+   transparent 40%),
+   url(../images/mapgot.jpg);
+  background-size: cover;
+  background-position: top;
+  position: relative;
+}
+
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+
+.display-4 {
+    font-family: 'Cinzel', serif;
+    font-size: 3rem;
+    padding-bottom: 10px;
+}
+
+.lead {
+    padding-top: 10px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+hr {
+    border: 1px solid white;
+    width: 100%;
+}
+
+#start {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Cinzel', serif;
+}
+
+#start:hover {
+    background-color: white;
+    color: black;
+}
