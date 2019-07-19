@@ -25,7 +25,32 @@ var questions = [
   {
     question: "Which of Cersei's children dies first?",
     answers: ["Tommen", "Myrcella", "The one in her belly", "Joffrey"],
-    correctAnswer: "The Lion King"
+    correctAnswer: "Joffrey"
+  },
+  {
+    question: "When did Daenery's dragons hatch?",
+    answers: ["End of Season 1", "Beginning of Season 2", "Middle of Season 2", "Middle of Season 1"],
+    correctAnswer: "End of Season 1"
+  },
+  {
+    question: "What man loved Daenerys but she always friendzoned him?",
+    answers: ["Daario", "Jon", "Jorah", "Khal Drogo"],
+    correctAnswer: "Jorah"
+  },
+  {
+    question: "How was the Knight King created?",
+    answers: ["Children of the Forest", "Dark Magic", "The Cold", "Hunger"],
+    correctAnswer: "Children of the Forest"
+  },
+  {
+    question: "Which dragon was revived by the Knight King?",
+    answers: ["Drogon", "Viserion", "Rhaegal", "Balerion"],
+    correctAnswer: "Viserion"
+  },
+  {
+    question: "Who did Daenerys Targaryen almost marry for politics?",
+    answers: ["Daario", "Khal Drogo", "Jon", "Hizdahr"],
+    correctAnswer: "Hizdahr"
   },
 ];
 
